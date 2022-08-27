@@ -13,19 +13,4 @@ function CheckKey(value){
     if(firstChar.toLowerCase() == "s"){
         return true;
     }else return false;
-}
-function setCookie(){
-    document.cookie="name=janu";
-}
-function getCookie()  
-{  
-    debugger
-    if(document.cookie.length!=0)  
-    {  
-    alert(document.cookie);  
-    }  
-    else  
-    {  
-    alert("Cookie not available");  
-    }  
 }  

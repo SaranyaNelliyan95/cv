@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    background-image: url("https://image.shutterstock.com/image-photo/light-bulbs-on-dark-wooden-600w-354086042.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    background-color: transparent;
+    border-color: tomato;
+}
